@@ -1,1 +1,0 @@
-# tejaswigowda.github.io
