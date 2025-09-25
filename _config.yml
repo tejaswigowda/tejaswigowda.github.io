@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+title: "Tejaswi Gowda"
+description: "Assistant Professor at GAME School & Computer Scientist at Foxy Ninja Studios"
+author: "Tejaswi Gowda"
+email: "tejaswi@example.com"
+github_username: tejaswigowda
+location: "Tempe, Arizona"
+show_downloads: false
