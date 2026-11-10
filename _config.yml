@@ -1,8 +1,12 @@
-theme: jekyll-theme-minimal
 title: "Tejaswi Gowda"
-description: "Assistant Professor at GAME School & Computer Scientist at Foxy Ninja Studios"
+description: "Educator, computer scientist, and maker exploring extended reality, connected systems, and the creative web."
 author: "Tejaswi Gowda"
-email: "tejaswi@example.com"
+email: "tejaswi@asu.edu"
 github_username: tejaswigowda
 location: "Tempe, Arizona"
-show_downloads: false
+url: "https://tejaswigowda.com"
+baseurl: ""
+# The portfolio lives in docs/index.html; the root index.html redirects to docs/.
+# To serve it directly at the domain root, set Pages to master /docs.
+# docs/CNAME preserves the custom domain when publishing from /docs.
+# No theme, plugins, package install, or build step is required.
